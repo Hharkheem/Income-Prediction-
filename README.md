@@ -17,8 +17,8 @@ To run this project, ensure you have Python 3.10+ installed. Follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Hharkheem/Income-Prediction.git
+   cd Income-Prediction
    ```
 
 2. **Install Dependencies**:
@@ -69,20 +69,9 @@ your-repo-name/
 ├── README.md            # This file
 ```
 
-## Results
-- **Model Performance**: The Random Forest Classifier achieves an accuracy of ~86.19% on the test set.
-- **Key Features**:
-  - `age`: 15.07%
-  - `capital-gain`: 14.08%
-  - `educational-num`: 12.75%
-  - `hours-per-week`: 9.49%
-  - `marital-status_Married-civ-spouse`: 8.30%
-
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code follows PEP 8 style guidelines and includes appropriate documentation.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-For questions or feedback, please open an issue on GitHub or contact [your-email@example.com].
